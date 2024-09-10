@@ -58,6 +58,7 @@ To ensure Elasticsearch can receive logs:
    - You should now see relevant logs appearing.
      
   ![insert image here](image.jpg)
+  
   ![insert image here](image.jpg)
 
 
