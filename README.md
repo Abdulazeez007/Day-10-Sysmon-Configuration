@@ -1,0 +1,1 @@
+# Day-10-Ingesting-Sysmon-and-Windows-Defender-Logs-into-Elasticsearch
