@@ -58,7 +58,8 @@ To ensure Elasticsearch can receive logs:
 1. In the **Elastic GUI**, click the **hamburger icon** and select **Discover**.
 2. In the search bar, enter: **winlog.event_id: 1**.
    - You should now see relevant logs appearing.
-
+     
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-10-Sysmon-Configuration/main/Images/IMG-20240911-WA0189.jpg)
 🎯 **Visualize Sysmon Logs**
 
 ---
@@ -66,7 +67,8 @@ To ensure Elasticsearch can receive logs:
 3. To specifically check **Windows Defender real-time protection** status:
    - Search for: **winlog.event_id: 5001**.
    - This will display logs related to real-time protection being disabled.
-
+     
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-10-Sysmon-Configuration/main/Images/IMG-20240911-WA0188.jpg)
 🎯 **Visualize Windows Defender Logs**
 
 ---
