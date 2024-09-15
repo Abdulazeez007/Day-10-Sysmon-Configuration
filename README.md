@@ -17,6 +17,7 @@ Monitoring your Windows environment is crucial for maintaining security and perf
    - **📋 Copy** the full channel name and **paste** it into the **Elastic GUI**.
 6. When prompted, select your **existing Windows Server** as the host for these integrations.
 
+![Alt text](https://github.com/Virus192/Day-10-Sysmon-Configuration/blob/main/Images/IMG-20240911-WA0194.jpg)
 🎯 **Channel Name for Sysmon**
 
 ---
